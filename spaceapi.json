@@ -1,0 +1,25 @@
+{
+  "api": "0.02",
+  "space": "lidmake",
+  "logo": "https://lidmake.se/wp-content/uploads/2018/10/cropped-makerspace-rev002-neg-1.png",
+  "url": "https://lidmake.se",
+  "location": {
+    "address": "Kvarnegårdsgatan 3, 53157 Lidköping, Sweden",
+    "lon": 913.157647399999973,
+    "lat": 58.49669830000001
+  },
+  "contact": {
+    "email": "styrelsen@lidmake.se",
+    "slack": "makerspacelidkping.slack.com"
+  },
+  "state": {
+    "icon": {
+      "open": "http://shackspace.de/sopen.gif",
+      "closed": "http://shackspace.de/sopen.gif"
+    },
+    "open": true
+  },
+  "projects": [
+    https://github.com/lidmake/,
+  ]
+}
