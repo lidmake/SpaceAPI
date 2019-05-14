@@ -17,7 +17,7 @@
       "open": "http://shackspace.de/sopen.gif",
       "closed": "http://shackspace.de/sopen.gif"
     },
-    "open": true
+    "open": false
   },
   "projects": [
     https://github.com/lidmake/,
